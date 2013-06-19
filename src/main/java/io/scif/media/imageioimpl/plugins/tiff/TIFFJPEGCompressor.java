@@ -1,6 +1,6 @@
 /*
  * #%L
- * Fork of JAI Image I/O Tools.
+ * SCIFIO fork of the Java Advanced Imaging Image I/O Tools API Core.
  * %%
  * Copyright (C) 2008 - 2013 Open Microscopy Environment:
  *   - Board of Regents of the University of Wisconsin-Madison
