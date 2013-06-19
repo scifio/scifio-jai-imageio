@@ -89,10 +89,10 @@
   </developers>
 
   <scm>
-		<connection>scm:git:git://github.com/scifio/scifio-jai-imageio-core</connection>
-		<developerConnection>scm:git:git@github.com:scifio/scifio-jai-imageio-core</developerConnection>
-		<tag>HEAD</tag>
-		<url>https://github.com/scifio/scifio-jai-imageio-core</url>
+    <connection>scm:git:git://github.com/scifio/scifio-jai-imageio-core</connection>
+    <developerConnection>scm:git:git@github.com:scifio/scifio-jai-imageio-core</developerConnection>
+    <tag>HEAD</tag>
+    <url>https://github.com/scifio/scifio-jai-imageio-core</url>
   </scm>
 
   <!-- NB: for project parent, in case of partial checkout -->
