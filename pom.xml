@@ -10,7 +10,7 @@
 
   <groupId>io.scif</groupId>
   <artifactId>jai_imageio</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2-SNAPSHOT</version>
 
   <name>JAI Image I/O Tools</name>
   <description>Java API to handle JPEG and JPEG2000 files. Used by Bio-Formats to read images compressed with JPEG2000 and lossless JPEG. Modified from the 2008-10-14 source to include support for the YCbCr color space. Several files in the com.sun.media.jai packages were removed, as they are not needed by Bio-Formats, and created an additional dependency. This project can be removed once our changes have been added to the official JAI CVS repository.</description>
@@ -88,7 +88,7 @@
   <scm>
     <connection>scm:git:git://github.com/scifio/scifio-jai-imageio-core</connection>
     <developerConnection>scm:git:git@github.com:scifio/scifio-jai-imageio-core</developerConnection>
-    <tag>jai_imageio-1.0.1</tag>
+    <tag>HEAD</tag>
     <url>https://github.com/scifio/scifio-jai-imageio-core</url>
   </scm>
 
