@@ -5,7 +5,8 @@
   <parent>
     <groupId>org.scijava</groupId>
     <artifactId>pom-scijava</artifactId>
-    <version>1.48</version>
+    <version>1.126</version>
+    <relativePath />
   </parent>
 
   <groupId>io.scif</groupId>
@@ -38,13 +39,6 @@
         </configuration>
       </plugin>
       <plugin>
-        <artifactId>maven-source-plugin</artifactId>
-      </plugin>
-      <plugin>
-        <groupId>org.codehaus.mojo</groupId>
-        <artifactId>buildnumber-maven-plugin</artifactId>
-      </plugin>
-      <plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>license-maven-plugin</artifactId>
         <configuration>
@@ -55,13 +49,9 @@
   - Board of Regents of the University of Wisconsin-Madison
   - Glencoe Software, Inc.
   - University of Dundee</organizationName>
-          <addJavaLicenseAfterPackage>false</addJavaLicenseAfterPackage>
-          <canUpdateDescription>true</canUpdateDescription>
-          <canUpdateCopyright>true</canUpdateCopyright>
         </configuration>
       </plugin>
     </plugins>
-
   </build>
 
   <organization>
