@@ -34,10 +34,10 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/scifio/scifio-jai-imageio-core</connection>
-		<developerConnection>scm:git:git@github.com:scifio/scifio-jai-imageio-core</developerConnection>
+		<connection>scm:git:git://github.com/scifio/scifio-jai-imageio</connection>
+		<developerConnection>scm:git:git@github.com:scifio/scifio-jai-imageio</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/scifio/scifio-jai-imageio-core</url>
+		<url>https://github.com/scifio/scifio-jai-imageio</url>
 	</scm>
 
 	<repositories>
