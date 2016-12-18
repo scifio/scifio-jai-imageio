@@ -19,19 +19,57 @@
 
 	<developers>
 		<developer>
-			<id>melissa</id>
-			<name>Melissa Linkert</name>
-			<email>melissa.linkert@glencoesoftware.com</email>
-			<url>http://www.openmicroscopy.org/site/about/development-teams/glencoe-software</url>
-			<organization>Glencoe Software</organization>
-			<organizationUrl>http://glencoesoftware.com/</organizationUrl>
+			<id>ctrueden</id>
+			<name>Curtis Rueden</name>
+			<url>http://imagej.net/User:Rueden</url>
 			<roles>
-				<role>architect</role>
-				<role>developer</role>
+				<role>founder</role>
+				<role>lead</role>
+				<role>reviewer</role>
+				<role>maintainer</role>
 			</roles>
-			<timezone>-6</timezone>
 		</developer>
 	</developers>
+	<contributors>
+		<contributor>
+			<name>Melissa Linkert</name>
+			<url>http://imagej.net/User:Linkert</url>
+			<roles><role>founder</role></roles>
+			<properties><id>melissalinkert</id></properties>
+		</contributor>
+		<contributor>
+			<name>Mark Hiner</name>
+			<url>http://imagej.net/User:Hinerm</url>
+			<roles><role>founder</role></roles>
+			<properties><id>hinerm</id></properties>
+		</contributor>
+		<contributor>
+			<name>Chris Allan</name>
+			<properties><id>callan</id></properties>
+		</contributor>
+		<contributor>
+			<name>Ghislain Bonamy</name>
+		</contributor>
+		<contributor>
+			<name>Sebastien Besson</name>
+			<url>http://imagej.net/User:Sbesson</url>
+			<properties><id>sbesson</id></properties>
+		</contributor>
+		<contributor>
+			<name>Josh Moore</name>
+			<url>http://imagej.net/User:Moore</url>
+			<properties><id>joshmoore</id></properties>
+		</contributor>
+		<contributor>
+			<name>Andrew Patterson</name>
+			<properties><id>qidane</id></properties>
+		</contributor>
+		<contributor>
+			<name>Johannes Schindelin</name>
+			<url>http://imagej.net/User:Schindelin</url>
+			<properties><id>dscho</id></properties>
+		</contributor>
+	</contributors>
 
 	<scm>
 		<connection>scm:git:git://github.com/scifio/scifio-jai-imageio</connection>
