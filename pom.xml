@@ -100,8 +100,8 @@
 		<url>https://github.com/scifio/scifio-jai-imageio/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/SCIFIO-JAI-ImageIO/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/scifio/scifio-jai-imageio</url>
 	</ciManagement>
 
 	<properties>
