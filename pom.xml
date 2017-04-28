@@ -114,11 +114,4 @@
 	- University of Dundee</license.copyrightOwners>
 		<license.projectName>SCIFIO fork of the Java Advanced Imaging Image I/O Tools API Core.</license.projectName>
 	</properties>
-
-	<repositories>
-		<repository>
-			<id>imagej.public</id>
-			<url>http://maven.imagej.net/content/groups/public</url>
-		</repository>
-	</repositories>
 </project>
