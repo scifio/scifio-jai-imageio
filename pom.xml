@@ -114,4 +114,17 @@
 	- University of Dundee</license.copyrightOwners>
 		<license.projectName>SCIFIO fork of the Java Advanced Imaging Image I/O Tools API Core.</license.projectName>
 	</properties>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<configuration>
+					<!-- NB: Disable the strict Java 8 doclint. -->
+					<additionalparam>-Xdoclint:none</additionalparam>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
 </project>
