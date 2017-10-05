@@ -113,6 +113,9 @@
 	- Glencoe Software, Inc.
 	- University of Dundee</license.copyrightOwners>
 		<license.projectName>SCIFIO fork of the Java Advanced Imaging Image I/O Tools API Core.</license.projectName>
+
+		<!-- NB: Deploy releases to the ImageJ Maven repository. -->
+		<releaseProfiles>deploy-to-imagej</releaseProfiles>
 	</properties>
 
 	<build>
