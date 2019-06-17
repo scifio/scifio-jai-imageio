@@ -116,17 +116,8 @@
 
 		<!-- NB: Deploy releases to the SciJava Maven repository. -->
 		<releaseProfiles>deploy-to-scijava</releaseProfiles>
-	</properties>
 
-	<build>
-		<plugins>
-			<plugin>
-				<artifactId>maven-javadoc-plugin</artifactId>
-				<configuration>
-					<!-- NB: Disable the strict Java 8 doclint. -->
-					<additionalparam>-Xdoclint:none</additionalparam>
-				</configuration>
-			</plugin>
-		</plugins>
-	</build>
+		<!-- NB: Disable the strict Java 8 doclint. -->
+		<doclint>none</doclint>
+	</properties>
 </project>
