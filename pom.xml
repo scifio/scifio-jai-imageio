@@ -100,8 +100,8 @@
 		<url>https://github.com/scifio/scifio-jai-imageio/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Travis CI</system>
-		<url>https://travis-ci.org/scifio/scifio-jai-imageio</url>
+		<system>GitHub Actions</system>
+		<url>https://github.com/scifio/scifio-jai-imageio/actions</url>
 	</ciManagement>
 
 	<properties>
@@ -115,7 +115,7 @@
 		<license.projectName>SCIFIO fork of the Java Advanced Imaging Image I/O Tools API Core.</license.projectName>
 
 		<!-- NB: Deploy releases to the SciJava Maven repository. -->
-		<releaseProfiles>deploy-to-scijava</releaseProfiles>
+		<releaseProfiles>sign,deploy-to-scijava</releaseProfiles>
 
 		<!-- NB: Disable the strict Java 8 doclint. -->
 		<doclint>none</doclint>

@@ -1,6 +1,6 @@
 # JAI-ImageIO
 
-[![](https://travis-ci.org/scifio/scifio-jai-imageio.svg?branch=master)](https://travis-ci.org/scifio/scifio-jai-imageio)
+[![](https://github.com/scifio/scifio-jai-imageio/actions/workflows/build-main.yml/badge.svg)](https://github.com/scifio/scifio-jai-imageio/actions/workflows/build-main.yml)
 
 Purpose
 -------
