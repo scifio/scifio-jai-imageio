@@ -1,6 +1,7 @@
 .classpath
 .project
 .settings
+.factorypath
 .DS_Store
 IO_Tests
 Missing JAI ImageIO Service Tests
@@ -15,3 +16,4 @@ testng-results.xml
 testng.css
 tools/*.jar
 *.log
+.idea/
