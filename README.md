@@ -1,6 +1,6 @@
 # JAI-ImageIO
 
-[![](https://github.com/scifio/scifio-jai-imageio/actions/workflows/build-main.yml/badge.svg)](https://github.com/scifio/scifio-jai-imageio/actions/workflows/build-main.yml)
+[![Build Status](https://github.com/scifio/scifio-jai-imageio/actions/workflows/build.yml/badge.svg)](https://github.com/scifio/scifio-jai-imageio/actions/workflows/build.yml)
 
 Purpose
 -------
